@@ -3,9 +3,8 @@ const secondNum = document.getElementById('input2');
 const outBox = document.getElementById('output');
 const btn = document.getElementById('butn');
 
-console.log(btn);
 console.log(firstNum);
-
+console.log(outBox);
 
 function ComputSumAndRoot()
 {
